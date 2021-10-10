@@ -1,0 +1,95 @@
+body{
+  background: #e8dbcd;
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
+  }
+h1{
+  margin: 0px;
+}
+h2 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+  }
+h3{
+  margin: 0;
+  font-size: 14px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.levy-sloupec {
+  background: #f6ede5;
+  width: 265px;
+  padding: 30px;
+  text-align: center;
+  float: left;
+}
+
+.levy-sloupec img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid #ffffff; 
+
+}
+.levy-sloupec hr{
+  width: 60px;
+  height: 2px;
+  background: #3e55d4;
+}
+.levy-sloupec .socialni-site {
+  width: 100%;    
+  padding: 10px 0;
+  background: #f6ede5;
+}
+.levy-sloupec .socialni-site a {
+  color: #000000;
+  margin-left: 5px;
+  margin-right: 5px;            
+}
+.pravy-sloupec {
+  background: #ffffff;
+  width: 415px;
+  padding: 30px;
+  float: left;
+}
+.vizitka {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  }
+.obal {
+  background: #ffffff;
+  float: left;
+}
+.obsah {
+  padding: 30px;
+}
+
+.tlacitko {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 30px; 
+  margin-top: 30px;
+}
+.tlacitko-modre {
+  color: #ffffff;
+  background: #3e55d4;
+  text-decoration: none;
+  padding: 7px 25px;
+  border-radius: 30px;
+  margin-right: 20px;
+
+}
+.tlacitko-modry-ramecek {
+  color: #3e55d4;
+    border: 2px solid #3e55d4;
+    padding: 5px 23px;
+    background: #ffffff;
+    text-decoration: none;
+    border-radius: 30px;
+}
